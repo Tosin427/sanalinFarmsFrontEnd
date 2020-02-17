@@ -327,7 +327,7 @@ h1 a.navbar-brand span {
     border: none;
 }
 .callbacks_here a:after{
-	background: #ef2e46;
+	background: #01796f;
 }
 ul.callbacks_tabs.callbacks2_tabs.callbacks_here a:after{
 	background:#192C3B;
@@ -398,7 +398,7 @@ ul.callbacks_tabs.callbacks2_tabs.callbacks_here a:after{
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
 	color: #fff;
-	background-color: #ffc400;
+	background-color: #01796f;
 }
 .banner-bottom-grids{
 	position: absolute;
@@ -434,7 +434,7 @@ p.w3ltext{
 .more a{
 	font-size: 13px;
 	padding: 10px 92px;
-	background: #ffc400;
+	background: #01796f;
 	text-decoration: none;
 	color: #fff;
 }
@@ -2365,8 +2365,8 @@ h2.typoh2{
 	} 
 	.navbar-default .navbar-toggle { 
 		margin-top: -0.5em;
-		border-color: #ffc400;
-		background: #ffc400;
+		border-color: #01796f;
+		background: #01796f;
 	} 
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 	  background-color: #012231;
