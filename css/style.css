@@ -60,17 +60,17 @@ body a:hover{
 	text-decoration: none;
 }
 h1 a.navbar-brand span {
-  color: #ef2e46;
+  color: #01796f;
 }
 .header ul.nav.navbar-nav li a {
     padding: 2em 1.1em;
 }
 .header .navbar-default .navbar-nav > .active > a, .header .navbar-default .navbar-nav > .active > a:hover, .header .navbar-default .navbar-nav > .active > a:focus {
   color: #fff;
-  background-color: #ffc400;
+  background-color: #01796f;
 }
 .header .navbar-default .navbar-nav > li > a{
-  color: #ffc400;
+  color: #01796f;
   font-size: 16px;
 }
 .header .navbar-nav > li > a {
@@ -86,7 +86,7 @@ h1 a.navbar-brand span {
 }
 .header .dropdown-menu > li.active > a ,.header .navbar-default .navbar-nav > .open > a, .header  .navbar-default .navbar-nav > .open > a:hover, .header  .navbar-default .navbar-nav > .open > a:focus,.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
     color: #fff;
-    background-color: #ffc400;
+    background-color: #01796f;
 }
 .header ul.dropdown-menu li.hvr-bounce-to-bottom {
     display: block;
@@ -451,7 +451,7 @@ p.w3ltext{
 	background:#338ad1;
 }
 .w3-agile-back3,.more3 a{
-	background:#ffc400;
+	background:#01796f;
 }
 /* Bounce To Bottom */
 .hvr-bounce-to-bottom {
@@ -482,7 +482,7 @@ p.w3ltext{
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background:#ffc400;
+	background:#01796f;
 	-webkit-transform: scaleY(0);
 	-moz-transform: scaleY(0);
 	-o-transform: scaleY(0);
