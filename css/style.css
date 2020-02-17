@@ -2435,7 +2435,7 @@ h2.typoh2{
 	.baner-w3text {
 	  top: 18%;
 	}
-	.banner-info, .banner-info1, .banner-info2 {
+	.banner-info, .banner-info1, .banner-info2, .banner-info3 {
 		min-height: 330px;
 	}
 	.banner-bottom-grd h4 {
@@ -2655,7 +2655,7 @@ h2.typoh2{
 	.banner-bottom-grd p {
 		margin: 0.6em 0 0;
 	}
-	.banner-info, .banner-info1, .banner-info2 {
+	.banner-info, .banner-info1, .banner-info2, .banner-info3 {
 		min-height: 220px;
 	}
 	.get-in-grid-left {
@@ -2840,7 +2840,7 @@ h2.typoh2{
 	} 
 }
 @media (max-width: 414px){
-	.banner-info, .banner-info1, .banner-info2 {
+	.banner-info, .banner-info1, .banner-info2, .banner-info3 {
 		min-height: 200px;
 	}
 	.baner-w3text h3{
@@ -2969,7 +2969,7 @@ h2.typoh2{
 		left: 5%;
 		width: 67%;
 	}
-	.banner-info, .banner-info1, .banner-info2 {
+	.banner-info, .banner-info1, .banner-info2, .banner-info3 {
 		min-height: 185px;
 	}
 	.banner-bottom-grid,.welcome-grid,.news-grid,.news-grid-left,.our-advantages-grid,.history-agileleft,
