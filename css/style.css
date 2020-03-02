@@ -525,7 +525,7 @@ p.w3ltext{
 /*-- //banner --*/
 /*-- welcome --*/
 .welcome{
-	padding:27em 0 5em;
+	padding: 27em 0 5em;
 }
 .welcome h2{
 	color:#012231;
@@ -3158,3 +3158,17 @@ h2.typoh2{
 		padding-left: 0em !important;
 	}
 }
+
+.img-responsive1 {
+	padding-top: 200px;
+	
+	
+}
+
+
+.pg-size {
+	padding-top: 150px;
+}
+
+
+
